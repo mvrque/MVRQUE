@@ -1,7 +1,13 @@
 <h1 align="center">Hello, I'm Marko Tomik</h1>
 <h3 align="center">A passionate full-stack developer from Estonia</h3>
 
-- 📫 How to reach me **marko_tomik@hotmail.com**
+- Working on [Movies and Tv-show database](https://movies-and-tvshows.netlify.app/)
+
+- A project i did [Taskmanager](https://taskmanager-okram.netlify.app/)
+
+- My portfolio [https://markotomik.netlify.app](https://markotomik.netlify.app)
+
+- How to reach me **marko_tomik@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
