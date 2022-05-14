@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Marko Tomik</h1>
-<h3 align="center">A passionate web developer from Estonia</h3>
+<h3 align="center">A passionate full-stack developer from Estonia</h3>
 
 - 📫 How to reach me **marko_tomik@hotmail.com**
 
