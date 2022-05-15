@@ -4,7 +4,7 @@
 - Some projects :
       [Movies and Tv-show database](https://github.com/mvrque/movieDatabase) |
       [Task manager](https://github.com/mvrque/taskManager) |
-      [Task manager](https://github.com/mvrque/taskManager)
+      [Restaurant website template]([Task manager](https://github.com/mvrque/taskManager))
 
 - Check out my portfolio! [https://markotomik.netlify.app](https://markotomik.netlify.app)
 
