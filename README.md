@@ -1,9 +1,7 @@
 <h1 align="center">Hello, I'm Marko Tomik</h1>
 <h3 align="center">A passionate web developer from Estonia</h3>
 
-- Some projects :
-      [Movies and Tv-show database](https://github.com/mvrque/movieDatabase) |
-      [Task manager](https://github.com/mvrque/taskManager) |
+- Some projects : [Booklist](https://github.com/mvrque/myBookList) | [Movies and Tv-show database](https://github.com/mvrque/movieDatabase) | [Task manager](https://github.com/mvrque/taskManager) | 
   
 
 - Check out my portfolio! [https://markotomik.netlify.app](https://markotomik.netlify.app)
