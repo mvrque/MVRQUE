@@ -2,8 +2,8 @@
 <h3 align="center">A passionate web developer from Estonia</h3>
 
 - Some projects :
-      [Movies and Tv-show database](https://movies-and-tvshows.netlify.app/) |
-      [Taskmanager](https://taskmanager-okram.netlify.app/)
+      [Movies and Tv-show database](https://github.com/mvrque/movieDatabase) |
+      [Taskmanager](https://github.com/mvrque/taskManager)
 
 - Check out my portfolio! [https://markotomik.netlify.app](https://markotomik.netlify.app)
 
