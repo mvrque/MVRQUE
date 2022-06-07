@@ -1,5 +1,6 @@
 <h1 align="center">Hello, I'm Marko Tomik</h1>
 <h3 align="center">A passionate web developer from Estonia</h3>
+<p align="center">HTML, CSS and JavaScript. Currently working with React.js and learning Node.js, Express and Mn</p>
 
 - Some projects : [Task manager](https://github.com/mvrque/taskManager) | [Booklist](https://github.com/mvrque/myBookList) | [Movies and Tv-show database](https://github.com/mvrque/movieDatabase)  
   
