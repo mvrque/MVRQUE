@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer from Estonia</h3>
 <p align="center">HTML, CSS and JavaScript. Currently working with React.js and learning Node.js.</p>
 
-- Some projects : [BMX RIDERS API](https://github.com/mvrque/bmx-riders-api) [Task manager](https://github.com/mvrque/taskManager) | [Booklist](https://github.com/mvrque/myBookList) | [Movies and Tv-show database](https://github.com/mvrque/movieDatabase)  
+- Some projects : [BMX RIDERS API](https://github.com/mvrque/bmx-riders-api) | [Task manager](https://github.com/mvrque/taskManager) | [Booklist](https://github.com/mvrque/myBookList) | [Movies and Tv-show database](https://github.com/mvrque/movieDatabase)  
   
 
 - Check out my portfolio! [https://markotomik.netlify.app](https://markotomik.netlify.app)
