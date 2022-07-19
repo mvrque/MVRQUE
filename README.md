@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Marko Tomik</h1>
-<h3 align="center">A passionate web developer from Estonia</h3>
+<h3 align="center">A passionate full-stack developer from Estonia</h3>
 <p align="center">HTML, CSS and JavaScript. Currently learning Node.js.</p>
 
 - Some projects : [BMX RIDERS API](https://github.com/mvrque/bmx-riders-api) | [Task manager](https://github.com/mvrque/taskManager) | [Booklist](https://github.com/mvrque/myBookList) | [Movies and Tv-show database](https://github.com/mvrque/movieDatabase)  
